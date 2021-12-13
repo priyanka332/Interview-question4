@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    margin: auto;
+    background-image: url("color.jpg");
+    background-size: 100%;
+    padding-left: 2rem;
+    padding-right: 3rem;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 8rem;
+    color: #fff;
+}
+
+input {
+    display: block;
+    margin-left: 41%;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: large;
+    text-align: center;
+    border-color: black;
+}
+
+button {
+    font-size: medium;
+    background-color: #fff;
+    border-radius: 1rem;
+    margin-left: 1rem;
+}
+
+.btn1 {
+    color: red;
+    border-color: red;
+}
+
+.btn2 {
+    color: green;
+    border-color: green;
+}
+
+.btn3 {
+    color: blue;
+    border-color: blue;
+}
